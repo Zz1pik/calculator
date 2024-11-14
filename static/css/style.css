@@ -1,3 +1,5 @@
+
+
 body {
   background-image: url(https://cdn.freelance.ru/img/portfolio/pics/00/2B/64/2843832.jpg?mt=2c44d56b);
   background-repeat: no-repeat;
@@ -11,17 +13,16 @@ body {
 
 .box {
   font-family: 'Orbitron', sans-serif;
-            width: 285px;
-            height: 360px;
-            margin: 15% auto;
-            border: 1px solid #2a9aac;
-            box-shadow: 2px 2px #2c2b2b;
-            border-radius: 20px;
-            user-select: none;
-            background-color: #B0E0E6;
-            position: absolute;
-            top: -10%;
-            left: 40%;
+  width: 285px;
+  height: 360px;
+  margin: 15% auto;
+  border: 1px solid #2a9aac;
+  box-shadow: 2px 2px #2c2b2b;
+  border-radius: 20px;
+  user-select: none;
+  background-color: #B0E0E6;
+  top: -10%;
+  left: 40%;
 }
 
 .screen {
@@ -63,7 +64,6 @@ button {
   border: none;
   box-shadow: 1px 2px #2c2b2b;
   background-color: rgb(137, 155, 155);
-  
 }
 
 button:focus {
@@ -129,4 +129,49 @@ footer {
   color: white;
   font-family: "Pacifico", cursive;
   font-size: 40px;
+}
+
+.column {
+  font-family: "Pacifico", cursive;
+  font-size: 20px;
+  height: 900px;
+  background-color: white;
+  padding: 50px;
+}
+
+td {
+  color: rgb(22, 114, 105);
+  text-align: left;
+  padding: 15px;
+  border: 2px solid black
+}
+
+tr {
+  color: rgb(10, 209, 189);
+  border: #033a48;
+  border: 2px solid black
+}
+
+th {
+  color:#11a078;
+  padding: 5px;
+  text-align: left;
+  border: 2px solid black
+}
+
+table {
+  margin: 5%;
+  border: #033a48;
+  border-top: 2px solid #000; 
+  border-bottom: 2px solid #000;
+}
+
+h2{
+  margin-left: 50px;
+  color: #1b4741;
+}
+
+h1{
+  text-align: center;
+  color: #104c5d;
 }
