@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 
 
-=======
-<<<<<<< HEAD
->>>>>>> ff1d32d0ff3267a44a4c644aed401cc960b826a1
 body {
   background-image: url(https://cdn.freelance.ru/img/portfolio/pics/00/2B/64/2843832.jpg?mt=2c44d56b);
   background-repeat: no-repeat;
@@ -17,7 +13,6 @@ body {
 
 .box {
   font-family: 'Orbitron', sans-serif;
-<<<<<<< HEAD
   width: 285px;
   height: 360px;
   margin: 15% auto;
@@ -28,45 +23,13 @@ body {
   background-color: #B0E0E6;
   top: -10%;
   left: 40%;
-=======
-            width: 285px;
-            height: 360px;
-            margin: 15% auto;
-            border: 1px solid #2a9aac;
-            box-shadow: 2px 2px #2c2b2b;
-            border-radius: 20px;
-            user-select: none;
-            background-color: #B0E0E6;
-            position: absolute;
-            top: -10%;
-            left: 40%;
-=======
-.box {
-  font-family: 'Orbitron', sans-serif;
-  width: 285px;
-  height: 360px;
-  margin: 15% auto auto;
-  border: 1px solid #9e9b97;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), inset -1px -6px 12px 0.1px #89847e;
-  border-radius: 20px;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
->>>>>>> c29cf54cc416a10346b2b5549ea1435b5ad71746
->>>>>>> ff1d32d0ff3267a44a4c644aed401cc960b826a1
 }
 
 .screen {
   height: 60px;
   width: 240px;
-<<<<<<< HEAD
   border: 1px solid #138e9e;
   background: #d2f1f9;
-=======
-  border: 1px solid #7c877f;
-  background: #c7d3c5;
->>>>>>> c29cf54cc416a10346b2b5549ea1435b5ad71746
   margin: 25px 20px 5px 20px;
   border-radius: 6px;
 }
@@ -77,10 +40,7 @@ body {
   padding: 10px 5px;
   font-size: 20px;
   text-align: right;
-<<<<<<< HEAD
   color: #033a48;
-=======
->>>>>>> c29cf54cc416a10346b2b5549ea1435b5ad71746
 }
 
 .sub-screen {
@@ -93,10 +53,7 @@ body {
 
 .buttons {
   margin: 10px auto;
-<<<<<<< HEAD
 
-=======
->>>>>>> c29cf54cc416a10346b2b5549ea1435b5ad71746
 }
 
 button {
@@ -105,7 +62,6 @@ button {
   width: 50px;
   height: 30px;
   border: none;
-<<<<<<< HEAD
   box-shadow: 1px 2px #2c2b2b;
   background-color: rgb(137, 155, 155);
 }
@@ -113,12 +69,6 @@ button {
 button:focus {
   outline:0 !important;
 }
-=======
-  box-shadow: 1px 2px #666;
-}
-
-button:focus {outline:0 !important;}
->>>>>>> c29cf54cc416a10346b2b5549ea1435b5ad71746
 
 button:active {
   box-shadow: none;
@@ -140,7 +90,6 @@ footer {
   font-size: 10px;
 }
 
-<<<<<<< HEAD
 .btn-default {
   color: #2d4644;
   background-color: #a5cde2;
@@ -181,7 +130,6 @@ footer {
   font-family: "Pacifico", cursive;
   font-size: 40px;
 }
-<<<<<<< HEAD
 
 .column {
   font-family: "Pacifico", cursive;
@@ -227,7 +175,3 @@ h1{
   text-align: center;
   color: #104c5d;
 }
-=======
-=======
->>>>>>> c29cf54cc416a10346b2b5549ea1435b5ad71746
->>>>>>> ff1d32d0ff3267a44a4c644aed401cc960b826a1
